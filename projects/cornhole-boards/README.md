@@ -1,5 +1,8 @@
+
+
+
 <p>
-  <img src="IMG_2804_LINK_HERE" width="300" align="right" style="margin-left: 15px;">
+  <img src="IMG_2804" width="300" align="right" style="margin-left: 15px;">
 </p>
 
 # Smart Interactive Cornhole Boards
