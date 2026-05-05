@@ -1,3 +1,8 @@
+<p>
+  <img src="IMG_2804_LINK_HERE" width="300" align="right" style="margin-left: 15px;">
+</p>
+
+
 <img width="967" height="1311" alt="IMG_2805" src="https://github.com/user-attachments/assets/b2b4bb0e-b14c-4090-a07b-e733ea934eaa" />
 <img width="1174" height="1734" alt="IMG_2804" src="https://github.com/user-attachments/assets/66925e20-4bcd-4adb-9aaf-dbf7bee2ee47" />
 <img width="3024" height="4032" alt="ArchStencil" src="https://github.com/user-attachments/assets/fe7a2998-3274-4e85-baa1-41164cf105d1" />
