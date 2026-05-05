@@ -2,6 +2,15 @@
 
 A collection of engineering projects spanning BIM, HVAC design, electronics, and hands-on fabrication.
 
+## **Projects**
+
+Here are some projects I’ve worked on:
+
+- [Smart Interactive Cornhole Boards](./projects/cornhole-boards)
+- [3D Printed Dice Dispenser](./projects/dice-dispenser)
+- [Truck Power Distribution System](./projects/truck-power-system)
+- [Audio-Reactive LED System](./projects/audio-reactive-leds)
+
 ## Professional Experience
 
 Mechanical Designer and BIM Lead with experience across a wide range of commercial and residential projects, including high-end custom homes, multi-family developments, warehouses, retail spaces, and restaurant buildouts.
