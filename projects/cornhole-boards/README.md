@@ -1,3 +1,9 @@
+<img width="967" height="1311" alt="IMG_2805" src="https://github.com/user-attachments/assets/b2b4bb0e-b14c-4090-a07b-e733ea934eaa" />
+<img width="1174" height="1734" alt="IMG_2804" src="https://github.com/user-attachments/assets/66925e20-4bcd-4adb-9aaf-dbf7bee2ee47" />
+<img width="3024" height="4032" alt="ArchStencil" src="https://github.com/user-attachments/assets/fe7a2998-3274-4e85-baa1-41164cf105d1" />
+<img width="4344" height="5792" alt="IMG_2947" src="https://github.com/user-attachments/assets/2a468f7f-81b1-4cb4-9f2f-6b5898ea78ab" />
+<img width="4284" height="5712" alt="ChannelAndHole" src="https://github.com/user-attachments/assets/c55f95a3-1b2f-42f3-afb8-67f9f223382e" />
+<img width="4284" height="5712" alt="NoHoleNoChannel" src="https://github.com/user-attachments/assets/8e0d8475-e4b1-4322-881e-b50d1fbcd482" />
 # Smart Interactive Cornhole Boards
 
 ## Overview
