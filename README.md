@@ -4,8 +4,9 @@ A collection of engineering projects spanning BIM, HVAC design, electronics, and
 
 ## **Projects**
 
-Here are some projects I’ve worked on:
+Here are some projects I have worked on:
 
+- [Boat Flag Lifter](./projects/boat-flag-lifter)
 - [Smart Interactive Cornhole Boards](./projects/cornhole-boards)
 - [3D Printed Dice Dispenser](./projects/dice-dispenser)
 - [Truck Power Distribution System](./projects/truck-power-system)
@@ -21,14 +22,14 @@ Mechanical Designer and BIM Lead with experience across a wide range of commerci
 - Large warehouse and industrial facilities
 - Retail and strip mall developments
 - Tenant Improvements (TI projects)
-- Restaurant buildouts including multiple Zao Asian Café locations
+- Restaurant buildouts including multiple Zao Asian Cafe locations
 
 ### Responsibilities
-- Project coordination across mechanical, plumbing, architectural, and structural disciplines  
-- Project management support including timelines, deliverables, and design progression  
-- HVAC system layout, duct sizing, and equipment selection  
-- Plumbing system design and pipe sizing  
-- Revit MEP modeling and BIM coordination  
-- Clash detection and resolution  
-- Construction document development and detailing  
-- Development and maintenance of Revit templates and standards  
+- Project coordination across mechanical, plumbing, architectural, and structural disciplines
+- Project management support including timelines, deliverables, and design progression
+- HVAC system layout, duct sizing, and equipment selection
+- Plumbing system design and pipe sizing
+- Revit MEP modeling and BIM coordination
+- Clash detection and resolution
+- Construction document development and detailing
+- Development and maintenance of Revit templates and standards
